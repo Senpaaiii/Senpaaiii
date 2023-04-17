@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Senpaaiii
-- 👀 I’m interested in coding, gaming, creative work and everything tech-related.
+- 👋 Hi, I’m Sunil Kumar Nishad
 - 🌱 I’m currently pursuing B.Tech CSE from VIT Bhopal.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My skills include C++, Data Structures & Algorithms, OOPS
+- 👀 I’m interested in coding, gaming, creative work and everything tech-related.
 - 📫 How to reach me sunilnishad10000@gmail.com
 
 <!---
